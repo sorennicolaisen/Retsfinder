@@ -1,546 +1,3296 @@
 {
-  "0800": ["Retten på Frederiksberg"],
-  "0900": ["Retten på Frederiksberg"],
-  "1000": ["Københavns Byret"],
-  "1050": ["Københavns Byret"],
-  "1100": ["Københavns Byret"],
-  "1200": ["Københavns Byret"],
-  "1300": ["Københavns Byret"],
-  "1400": ["Københavns Byret"],
-  "1500": ["Københavns Byret"],
-  "1600": ["Københavns Byret"],
-  "1700": ["Københavns Byret"],
-  "1800": ["Københavns Byret"],
-  "1900": ["Københavns Byret"],
-  "2000": ["Retten på Frederiksberg"],
-  "2100": ["Københavns Byret"],
-  "2200": ["Københavns Byret"],
-  "2300": ["Københavns Byret"],
-  "2400": ["Københavns Byret"],
-  "2450": ["Københavns Byret"],
-  "2500": ["Retten på Frederiksberg"],
-  "2600": ["Retten i Glostrup"],
-  "2610": ["Retten i Glostrup"],
-  "2620": ["Retten i Glostrup"],
-  "2630": ["Retten i Glostrup"],
-  "2640": ["Retten i Glostrup"],
-  "2650": ["Retten i Glostrup"],
-  "2660": ["Retten i Glostrup"],
-  "2700": ["Retten i Glostrup"],
-  "2720": ["Retten i Glostrup"],
-  "2730": ["Retten i Glostrup"],
-  "2740": ["Retten i Glostrup"],
-  "2750": ["Retten i Glostrup"],
-  "2760": ["Retten i Glostrup"],
-  "2770": ["Retten i Glostrup"],
-  "2791": ["Retten i Glostrup"],
-  "2800": ["Retten i Lyngby"],
-  "2820": ["Retten i Lyngby"],
-  "2830": ["Retten i Lyngby"],
-  "2840": ["Retten i Lyngby"],
-  "2850": ["Retten i Lyngby"],
-  "2860": ["Retten i Lyngby"],
-  "2870": ["Retten i Lyngby"],
-  "2880": ["Retten i Lyngby"],
-  "2900": ["Retten i Lyngby"],
-  "2920": ["Retten i Lyngby"],
-  "2930": ["Retten i Lyngby"],
-  "2942": ["Retten i Lyngby"],
-  "2950": ["Retten i Lyngby"],
-  "2960": ["Retten i Lyngby"],
-  "2970": ["Retten i Lyngby"],
-  "2980": ["Retten i Helsingør"],
-  "2990": ["Retten i Helsingør"],
-  "3000": ["Retten i Helsingør"],
-  "3050": ["Retten i Helsingør"],
-  "3060": ["Retten i Helsingør"],
-  "3070": ["Retten i Helsingør"],
-  "3080": ["Retten i Helsingør"],
-  "3100": ["Retten i Hillerød"],
-  "3120": ["Retten i Hillerød"],
-  "3140": ["Retten i Hillerød"],
-  "3200": ["Retten i Hillerød"],
-  "3220": ["Retten i Hillerød"],
-  "3230": ["Retten i Hillerød"],
-  "3250": ["Retten i Hillerød"],
-  "3300": ["Retten i Hillerød"],
-  "3320": ["Retten i Hillerød"],
-  "3330": ["Retten i Hillerød"],
-  "3390": ["Retten i Hillerød"],
-  "3400": ["Retten i Hillerød"],
-  "3450": ["Retten i Hillerød"],
-  "3460": ["Retten i Hillerød"],
-  "3480": ["Retten i Hillerød"],
-  "3490": ["Retten i Helsingør"],
-  "3500": ["Retten i Hillerød"],
-  "3520": ["Retten i Hillerød"],
-  "3540": ["Retten i Hillerød"],
-  "3550": ["Retten i Hillerød"],
-  "3600": ["Retten i Hillerød"],
-  "3630": ["Retten i Hillerød"],
-  "3650": ["Retten i Hillerød"],
-  "3660": ["Retten i Hillerød"],
-  "3670": ["Retten i Hillerød"],
-  "3700": ["Retten på Bornholm"],
-  "3720": ["Retten på Bornholm"],
-  "3730": ["Retten på Bornholm"],
-  "3740": ["Retten på Bornholm"],
-  "3751": ["Retten på Bornholm"],
-  "3760": ["Retten på Bornholm"],
-  "3770": ["Retten på Bornholm"],
-  "3782": ["Retten på Bornholm"],
-  "3790": ["Retten på Bornholm"],
-  "4000": ["Retten i Roskilde"],
-  "4040": ["Retten i Roskilde"],
-  "4050": ["Retten i Roskilde"],
-  "4060": ["Retten i Roskilde"],
-  "4070": ["Retten i Roskilde"],
-  "4100": ["Retten i Roskilde"],
-  "4130": ["Retten i Roskilde"],
-  "4140": ["Retten i Roskilde"],
-  "4171": ["Retten i Roskilde"],
-  "4180": ["Retten i Roskilde"],
-  "4200": ["Retten i Næstved"],
-  "4241": ["Retten i Næstved"],
-  "4242": ["Retten i Næstved"],
-  "4243": ["Retten i Næstved"],
-  "4250": ["Retten i Næstved"],
-  "4261": ["Retten i Næstved"],
-  "4270": ["Retten i Næstved"],
-  "4281": ["Retten i Næstved"],
-  "4291": ["Retten i Næstved"],
-  "4293": ["Retten i Næstved"],
-  "4295": ["Retten i Næstved"],
-  "4300": ["Retten i Holbæk"],
-  "4320": ["Retten i Holbæk"],
-  "4330": ["Retten i Holbæk"],
-  "4340": ["Retten i Holbæk"],
-  "4350": ["Retten i Holbæk"],
-  "4360": ["Retten i Holbæk"],
-  "4370": ["Retten i Holbæk"],
-  "4380": ["Retten i Holbæk"],
-  "4390": ["Retten i Holbæk"],
-  "4400": ["Retten i Holbæk"],
-  "4420": ["Retten i Holbæk"],
-  "4440": ["Retten i Holbæk"],
-  "4450": ["Retten i Holbæk"],
-  "4460": ["Retten i Holbæk"],
-  "4470": ["Retten i Holbæk"],
-  "4480": ["Retten i Holbæk"],
-  "4490": ["Retten i Holbæk"],
-  "4500": ["Retten i Holbæk"],
-  "4520": ["Retten i Holbæk"],
-  "4532": ["Retten i Holbæk"],
-  "4534": ["Retten i Holbæk"],
-  "4540": ["Retten i Holbæk"],
-  "4550": ["Retten i Holbæk"],
-  "4560": ["Retten i Holbæk"],
-  "4571": ["Retten i Holbæk"],
-  "4572": ["Retten i Holbæk"],
-  "4573": ["Retten i Holbæk"],
-  "4581": ["Retten i Holbæk"],
-  "4583": ["Retten i Holbæk"],
-  "4591": ["Retten i Holbæk"],
-  "4592": ["Retten i Holbæk"],
-  "4600": ["Retten i Roskilde"],
-  "4621": ["Retten i Roskilde"],
-  "4622": ["Retten i Roskilde"],
-  "4623": ["Retten i Roskilde"],
-  "4632": ["Retten i Roskilde"],
-  "4640": ["Retten i Næstved"],
-  "4652": ["Retten i Næstved"],
-  "4653": ["Retten i Næstved"],
-  "4654": ["Retten i Næstved"],
-  "4660": ["Retten i Næstved"],
-  "4671": ["Retten i Næstved"],
-  "4672": ["Retten i Næstved"],
-  "4673": ["Retten i Næstved"],
-  "4681": ["Retten i Næstved"],
-  "4682": ["Retten i Næstved"],
-  "4683": ["Retten i Næstved"],
-  "4684": ["Retten i Næstved"],
-  "4690": ["Retten i Næstved"],
-  "4700": ["Retten i Næstved"],
-  "4720": ["Retten i Næstved"],
-  "4733": ["Retten i Næstved"],
-  "4735": ["Retten i Næstved"],
-  "4736": ["Retten i Næstved"],
-  "4750": ["Retten i Næstved"],
-  "4760": ["Retten i Næstved"],
-  "4771": ["Retten i Næstved"],
-  "4780": ["Retten i Næstved"],
-  "4791": ["Retten i Næstved"],
-  "4800": ["Retten i Nykøbing Falster"],
-  "4840": ["Retten i Nykøbing Falster"],
-  "4850": ["Retten i Nykøbing Falster"],
-  "4862": ["Retten i Nykøbing Falster"],
-  "4863": ["Retten i Nykøbing Falster"],
-  "4871": ["Retten i Nykøbing Falster"],
-  "4872": ["Retten i Nykøbing Falster"],
-  "4880": ["Retten i Nykøbing Falster"],
-  "4891": ["Retten i Nykøbing Falster"],
-  "4892": ["Retten i Nykøbing Falster"],
-  "4900": ["Retten i Nykøbing Falster"],
-  "4930": ["Retten i Nykøbing Falster"],
-  "4941": ["Retten i Nykøbing Falster"],
-  "4942": ["Retten i Nykøbing Falster"],
-  "4951": ["Retten i Nykøbing Falster"],
-  "4952": ["Retten i Nykøbing Falster"],
-  "4960": ["Retten i Nykøbing Falster"],
-  "4970": ["Retten i Nykøbing Falster"],
-  "4983": ["Retten i Nykøbing Falster"],
-  "4990": ["Retten i Nykøbing Falster"],
-  "5000": ["Retten i Odense"],
-  "5200": ["Retten i Odense"],
-  "5210": ["Retten i Odense"],
-  "5220": ["Retten i Odense"],
-  "5230": ["Retten i Odense"],
-  "5240": ["Retten i Odense"],
-  "5250": ["Retten i Odense"],
-  "5260": ["Retten i Odense"],
-  "5270": ["Retten i Odense"],
-  "5290": ["Retten i Odense"],
-  "5300": ["Retten i Odense"],
-  "5320": ["Retten i Odense"],
-  "5330": ["Retten i Odense"],
-  "5350": ["Retten i Odense"],
-  "5370": ["Retten i Odense"],
-  "5390": ["Retten i Odense"],
-  "5400": ["Retten i Odense"],
-  "5450": ["Retten i Odense"],
-  "5462": ["Retten i Odense"],
-  "5463": ["Retten i Odense"],
-  "5464": ["Retten i Odense"],
-  "5466": ["Retten i Odense"],
-  "5471": ["Retten i Odense"],
-  "5500": ["Retten i Svendborg"],
-  "5540": ["Retten i Svendborg"],
-  "5550": ["Retten i Svendborg"],
-  "5560": ["Retten i Svendborg"],
-  "5580": ["Retten i Svendborg"],
-  "5591": ["Retten i Svendborg"],
-  "5592": ["Retten i Svendborg"],
-  "5600": ["Retten i Svendborg"],
-  "5601": ["Retten i Svendborg"],
-  "5610": ["Retten i Svendborg"],
-  "5620": ["Retten i Svendborg"],
-  "5631": ["Retten i Svendborg"],
-  "5642": ["Retten i Svendborg"],
-  "5672": ["Retten i Svendborg"],
-  "5683": ["Retten i Svendborg"],
-  "5690": ["Retten i Svendborg"],
-  "5700": ["Retten i Svendborg"],
-  "5750": ["Retten i Svendborg"],
-  "5762": ["Retten i Svendborg"],
-  "5771": ["Retten i Svendborg"],
-  "5792": ["Retten i Svendborg"],
-  "5800": ["Retten i Svendborg"],
-  "5853": ["Retten i Svendborg"],
-  "5854": ["Retten i Svendborg"],
-  "5856": ["Retten i Svendborg"],
-  "5863": ["Retten i Svendborg"],
-  "5871": ["Retten i Svendborg"],
-  "5874": ["Retten i Svendborg"],
-  "5881": ["Retten i Svendborg"],
-  "5900": ["Retten i Svendborg"],
-  "5932": ["Retten i Svendborg"],
-  "5935": ["Retten i Svendborg"],
-  "5953": ["Retten i Svendborg"],
-  "5960": ["Retten i Svendborg"],
-  "5970": ["Retten i Svendborg"],
-  "5985": ["Retten i Svendborg"],
-  "6000": ["Retten i Kolding"],
-  "6040": ["Retten i Kolding"],
-  "6051": ["Retten i Kolding"],
-  "6052": ["Retten i Kolding"],
-  "6064": ["Retten i Kolding"],
-  "6070": ["Retten i Kolding"],
-  "6091": ["Retten i Kolding"],
-  "6092": ["Retten i Kolding"],
-  "6100": ["Retten i Sønderborg"],
-  "6200": ["Retten i Sønderborg"],
-  "6230": ["Retten i Sønderborg"],
-  "6240": ["Retten i Sønderborg"],
-  "6250": ["Retten i Sønderborg"],
-  "6261": ["Retten i Sønderborg"],
-  "6270": ["Retten i Sønderborg"],
-  "6300": ["Retten i Sønderborg"],
-  "6310": ["Retten i Sønderborg"],
-  "6320": ["Retten i Sønderborg"],
-  "6330": ["Retten i Sønderborg"],
-  "6340": ["Retten i Sønderborg"],
-  "6360": ["Retten i Sønderborg"],
-  "6372": ["Retten i Sønderborg"],
-  "6392": ["Retten i Sønderborg"],
-  "6400": ["Retten i Sønderborg"],
-  "6430": ["Retten i Sønderborg"],
-  "6440": ["Retten i Sønderborg"],
-  "6470": ["Retten i Sønderborg"],
-  "6500": ["Retten i Esbjerg"],
-  "6510": ["Retten i Esbjerg"],
-  "6520": ["Retten i Esbjerg"],
-  "6534": ["Retten i Esbjerg"],
-  "6535": ["Retten i Esbjerg"],
-  "6541": ["Retten i Esbjerg"],
-  "6560": ["Retten i Esbjerg"],
-  "6580": ["Retten i Esbjerg"],
-  "6600": ["Retten i Kolding"],
-  "6621": ["Retten i Kolding"],
-  "6622": ["Retten i Kolding"],
-  "6623": ["Retten i Kolding"],
-  "6630": ["Retten i Kolding"],
-  "6640": ["Retten i Kolding"],
-  "6650": ["Retten i Kolding"],
-  "6660": ["Retten i Kolding"],
-  "6670": ["Retten i Kolding"],
-  "6682": ["Retten i Kolding"],
-  "6683": ["Retten i Kolding"],
-  "6690": ["Retten i Esbjerg"],
-  "6700": ["Retten i Esbjerg"],
-  "6705": ["Retten i Esbjerg"],
-  "6710": ["Retten i Esbjerg"],
-  "6715": ["Retten i Esbjerg"],
-  "6720": ["Retten i Esbjerg"],
-  "6731": ["Retten i Esbjerg"],
-  "6740": ["Retten i Esbjerg"],
-  "6752": ["Retten i Esbjerg"],
-  "6760": ["Retten i Esbjerg"],
-  "6771": ["Retten i Esbjerg"],
-  "6780": ["Retten i Esbjerg"],
-  "6792": ["Retten i Esbjerg"],
-  "6800": ["Retten i Esbjerg"],
-  "6818": ["Retten i Esbjerg"],
-  "6823": ["Retten i Esbjerg"],
-  "6830": ["Retten i Esbjerg"],
-  "6840": ["Retten i Esbjerg"],
-  "6851": ["Retten i Esbjerg"],
-  "6852": ["Retten i Esbjerg"],
-  "6853": ["Retten i Esbjerg"],
-  "6854": ["Retten i Esbjerg"],
-  "6855": ["Retten i Esbjerg"],
-  "6857": ["Retten i Esbjerg"],
-  "6862": ["Retten i Esbjerg"],
-  "6870": ["Retten i Esbjerg"],
-  "6880": ["Retten i Esbjerg"],
-  "6893": ["Retten i Esbjerg"],
-  "6900": ["Retten i Holstebro"],
-  "6920": ["Retten i Holstebro"],
-  "6933": ["Retten i Holstebro"],
-  "6940": ["Retten i Holstebro"],
-  "6950": ["Retten i Holstebro"],
-  "6960": ["Retten i Holstebro"],
-  "6971": ["Retten i Holstebro"],
-  "6973": ["Retten i Holstebro"],
-  "6980": ["Retten i Holstebro"],
-  "6990": ["Retten i Holstebro"],
-  "7000": ["Retten i Kolding"],
-  "7080": ["Retten i Kolding"],
-  "7100": ["Retten i Kolding"],
-  "7120": ["Retten i Kolding"],
-  "7130": ["Retten i Kolding"],
-  "7140": ["Retten i Kolding"],
-  "7150": ["Retten i Kolding"],
-  "7160": ["Retten i Kolding"],
-  "7171": ["Retten i Kolding"],
-  "7173": ["Retten i Kolding"],
-  "7182": ["Retten i Kolding"],
-  "7183": ["Retten i Kolding"],
-  "7184": ["Retten i Kolding"],
-  "7190": ["Retten i Kolding"],
-  "7200": ["Retten i Kolding"],
-  "7250": ["Retten i Kolding"],
-  "7260": ["Retten i Kolding"],
-  "7270": ["Retten i Kolding"],
-  "7280": ["Retten i Kolding"],
-  "7300": ["Retten i Horsens"],
-  "7321": ["Retten i Horsens"],
-  "7323": ["Retten i Horsens"],
-  "7330": ["Retten i Horsens"],
-  "7361": ["Retten i Horsens"],
-  "7362": ["Retten i Horsens"],
-  "7400": ["Retten i Herning"],
-  "7430": ["Retten i Herning"],
-  "7441": ["Retten i Herning"],
-  "7451": ["Retten i Herning"],
-  "7470": ["Retten i Herning"],
-  "7480": ["Retten i Herning"],
-  "7490": ["Retten i Herning"],
-  "7500": ["Retten i Holstebro"],
-  "7540": ["Retten i Holstebro"],
-  "7550": ["Retten i Holstebro"],
-  "7560": ["Retten i Holstebro"],
-  "7570": ["Retten i Holstebro"],
-  "7600": ["Retten i Holstebro"],
-  "7620": ["Retten i Holstebro"],
-  "7650": ["Retten i Holstebro"],
-  "7660": ["Retten i Holstebro"],
-  "7673": ["Retten i Holstebro"],
-  "7680": ["Retten i Horsens"],
-  "7700": ["Retten i Holstebro"],
-  "7730": ["Retten i Holstebro"],
-  "7741": ["Retten i Holstebro"],
-  "7742": ["Retten i Holstebro"],
-  "7752": ["Retten i Holstebro"],
-  "7755": ["Retten i Holstebro"],
-  "7760": ["Retten i Holstebro"],
-  "7770": ["Retten i Holstebro"],
-  "7790": ["Retten i Holstebro"],
-  "7800": ["Retten i Holstebro"],
-  "7830": ["Retten i Holstebro"],
-  "7840": ["Retten i Holstebro"],
-  "7850": ["Retten i Holstebro"],
-  "7860": ["Retten i Holstebro"],
-  "7870": ["Retten i Holstebro"],
-  "7884": ["Retten i Holstebro"],
-  "7900": ["Retten i Holstebro"],
-  "7950": ["Retten i Holstebro"],
-  "7960": ["Retten i Holstebro"],
-  "7970": ["Retten i Holstebro"],
-  "7980": ["Retten i Holstebro"],
-  "7990": ["Retten i Holstebro"],
-  "8000": ["Retten i Aarhus"],
-  "8200": ["Retten i Aarhus"],
-  "8210": ["Retten i Aarhus"],
-  "8220": ["Retten i Aarhus"],
-  "8230": ["Retten i Aarhus"],
-  "8240": ["Retten i Aarhus"],
-  "8250": ["Retten i Aarhus"],
-  "8260": ["Retten i Aarhus"],
-  "8270": ["Retten i Aarhus"],
-  "8300": ["Retten i Randers"],
-  "8310": ["Retten i Aarhus"],
-  "8320": ["Retten i Aarhus"],
-  "8330": ["Retten i Randers"],
-  "8340": ["Retten i Aarhus"],
-  "8350": ["Retten i Aarhus"],
-  "8361": ["Retten i Aarhus"],
-  "8362": ["Retten i Aarhus"],
-  "8370": ["Retten i Aarhus"],
-  "8380": ["Retten i Aarhus"],
-  "8400": ["Retten i Randers"],
-  "8410": ["Retten i Randers"],
-  "8420": ["Retten i Randers"],
-  "8444": ["Retten i Randers"],
-  "8450": ["Retten i Randers"],
-  "8462": ["Retten i Randers"],
-  "8464": ["Retten i Randers"],
-  "8471": ["Retten i Randers"],
-  "8472": ["Retten i Randers"],
-  "8500": ["Retten i Randers"],
-  "8520": ["Retten i Randers"],
-  "8530": ["Retten i Randers"],
-  "8541": ["Retten i Randers"],
-  "8543": ["Retten i Randers"],
-  "8550": ["Retten i Randers"],
-  "8560": ["Retten i Randers"],
-  "8570": ["Retten i Randers"],
-  "8581": ["Retten i Randers"],
-  "8585": ["Retten i Randers"],
-  "8586": ["Retten i Randers"],
-  "8592": ["Retten i Randers"],
-  "8600": ["Retten i Viborg"],
-  "8620": ["Retten i Horsens"],
-  "8641": ["Retten i Horsens"],
-  "8643": ["Retten i Horsens"],
-  "8653": ["Retten i Horsens"],
-  "8654": ["Retten i Horsens"],
-  "8660": ["Retten i Horsens"],
-  "8670": ["Retten i Horsens"],
-  "8680": ["Retten i Horsens"],
-  "8700": ["Retten i Horsens"],
-  "8721": ["Retten i Horsens"],
-  "8722": ["Retten i Horsens"],
-  "8723": ["Retten i Horsens"],
-  "8732": ["Retten i Horsens"],
-  "8740": ["Retten i Horsens"],
-  "8751": ["Retten i Horsens"],
-  "8752": ["Retten i Horsens"],
-  "8762": ["Retten i Horsens"],
-  "8763": ["Retten i Horsens"],
-  "8765": ["Retten i Horsens"],
-  "8766": ["Retten i Horsens"],
-  "8771": ["Retten i Horsens"],
-  "8781": ["Retten i Horsens"],
-  "8783": ["Retten i Horsens"],
-  "8800": ["Retten i Viborg"],
-  "8830": ["Retten i Viborg"],
-  "8831": ["Retten i Viborg"],
-  "8832": ["Retten i Viborg"],
-  "8840": ["Retten i Viborg"],
-  "8850": ["Retten i Viborg"],
-  "8860": ["Retten i Viborg"],
-  "8870": ["Retten i Viborg"],
-  "8881": ["Retten i Viborg"],
-  "8882": ["Retten i Viborg"],
-  "8883": ["Retten i Viborg"],
-  "8900": ["Retten i Randers"],
-  "8920": ["Retten i Randers"],
-  "8930": ["Retten i Randers"],
-  "8940": ["Retten i Randers"],
-  "8950": ["Retten i Randers"],
-  "8961": ["Retten i Randers"],
-  "8963": ["Retten i Randers"],
-  "8970": ["Retten i Randers"],
-  "8981": ["Retten i Randers"],
-  "8983": ["Retten i Randers"],
-  "8990": ["Retten i Randers"],
-  "9000": ["Retten i Aalborg"],
-  "9200": ["Retten i Aalborg"],
-  "9210": ["Retten i Aalborg"],
-  "9220": ["Retten i Aalborg"],
-  "9230": ["Retten i Aalborg"],
-  "9240": ["Retten i Aalborg"],
-  "9260": ["Retten i Aalborg"],
-  "9270": ["Retten i Aalborg"],
-  "9280": ["Retten i Aalborg"],
-  "9293": ["Retten i Aalborg"],
-  "9300": ["Retten i Hjørring"],
-  "9310": ["Retten i Hjørring"],
-  "9320": ["Retten i Hjørring"],
-  "9330": ["Retten i Hjørring"],
-  "9340": ["Retten i Hjørring"],
-  "9352": ["Retten i Hjørring"],
-  "9362": ["Retten i Hjørring"],
-  "9370": ["Retten i Hjørring"],
-  "9380": ["Retten i Hjørring"],
-  "9381": ["Retten i Hjørring"],
-  "9382": ["Retten i Hjørring"],
-  "9400": ["Retten i Hjørring"],
-  "9430": ["Retten i Hjørring"],
-  "9440": ["Retten i Hjørring"],
-  "9460": ["Retten i Hjørring"],
-  "9480": ["Retten i Hjørring"],
-  "9490": ["Retten i Hjørring"],
-  "9492": ["Retten i Hjørring"],
-  "9493": ["Retten i Hjørring"],
-  "9500": ["Retten i Aalborg"],
-  "9510": ["Retten i Aalborg"],
-  "9520": ["Retten i Aalborg"],
-  "9530": ["Retten i Aalborg"],
-  "9541": ["Retten i Aalborg"],
-  "9574": ["Retten i Aalborg"],
-  "9600": ["Retten i Viborg"],
-  "9620": ["Retten i Viborg"],
-  "9631": ["Retten i Viborg"],
-  "9632": ["Retten i Viborg"],
-  "9640": ["Retten i Viborg"],
-  "9670": ["Retten i Viborg"],
-  "9681": ["Retten i Viborg"],
-  "9690": ["Retten i Viborg"],
-  "9700": ["Retten i Hjørring"],
-  "9740": ["Retten i Hjørring"],
-  "9750": ["Retten i Hjørring"],
-  "9760": ["Retten i Hjørring"],
-  "9800": ["Retten i Hjørring"],
-  "9830": ["Retten i Hjørring"],
-  "9850": ["Retten i Hjørring"],
-  "9870": ["Retten i Hjørring"],
-  "9881": ["Retten i Hjørring"],
-  "9900": ["Retten i Hjørring"],
-  "9940": ["Retten i Hjørring"],
-  "9970": ["Retten i Hjørring"],
-  "9981": ["Retten i Hjørring"],
-  "9982": ["Retten i Hjørring"],
-  "9983": ["Retten i Hjørring"],
-  "9990": ["Retten i Hjørring"]
+  "0800": [
+    "Retten på Frederiksberg"
+  ],
+  "0900": [
+    "Retten på Frederiksberg"
+  ],
+  "1000": [
+    "Københavns Byret"
+  ],
+  "1050": [
+    "Københavns Byret"
+  ],
+  "1051": [
+    "Københavns Byret"
+  ],
+  "1052": [
+    "Københavns Byret"
+  ],
+  "1053": [
+    "Københavns Byret"
+  ],
+  "1054": [
+    "Københavns Byret"
+  ],
+  "1055": [
+    "Københavns Byret"
+  ],
+  "1056": [
+    "Københavns Byret"
+  ],
+  "1057": [
+    "Københavns Byret"
+  ],
+  "1058": [
+    "Københavns Byret"
+  ],
+  "1059": [
+    "Københavns Byret"
+  ],
+  "1060": [
+    "Københavns Byret"
+  ],
+  "1061": [
+    "Københavns Byret"
+  ],
+  "1062": [
+    "Københavns Byret"
+  ],
+  "1063": [
+    "Københavns Byret"
+  ],
+  "1064": [
+    "Københavns Byret"
+  ],
+  "1065": [
+    "Københavns Byret"
+  ],
+  "1066": [
+    "Københavns Byret"
+  ],
+  "1067": [
+    "Københavns Byret"
+  ],
+  "1068": [
+    "Københavns Byret"
+  ],
+  "1069": [
+    "Københavns Byret"
+  ],
+  "1070": [
+    "Københavns Byret"
+  ],
+  "1071": [
+    "Københavns Byret"
+  ],
+  "1072": [
+    "Københavns Byret"
+  ],
+  "1073": [
+    "Københavns Byret"
+  ],
+  "1074": [
+    "Københavns Byret"
+  ],
+  "1100": [
+    "Københavns Byret"
+  ],
+  "1101": [
+    "Københavns Byret"
+  ],
+  "1102": [
+    "Københavns Byret"
+  ],
+  "1103": [
+    "Københavns Byret"
+  ],
+  "1104": [
+    "Københavns Byret"
+  ],
+  "1105": [
+    "Københavns Byret"
+  ],
+  "1106": [
+    "Københavns Byret"
+  ],
+  "1107": [
+    "Københavns Byret"
+  ],
+  "1110": [
+    "Københavns Byret"
+  ],
+  "1111": [
+    "Københavns Byret"
+  ],
+  "1112": [
+    "Københavns Byret"
+  ],
+  "1113": [
+    "Københavns Byret"
+  ],
+  "1114": [
+    "Københavns Byret"
+  ],
+  "1115": [
+    "Københavns Byret"
+  ],
+  "1116": [
+    "Københavns Byret"
+  ],
+  "1117": [
+    "Københavns Byret"
+  ],
+  "1118": [
+    "Københavns Byret"
+  ],
+  "1119": [
+    "Københavns Byret"
+  ],
+  "1120": [
+    "Københavns Byret"
+  ],
+  "1121": [
+    "Københavns Byret"
+  ],
+  "1122": [
+    "Københavns Byret"
+  ],
+  "1123": [
+    "Københavns Byret"
+  ],
+  "1124": [
+    "Københavns Byret"
+  ],
+  "1125": [
+    "Københavns Byret"
+  ],
+  "1126": [
+    "Københavns Byret"
+  ],
+  "1127": [
+    "Københavns Byret"
+  ],
+  "1128": [
+    "Københavns Byret"
+  ],
+  "1129": [
+    "Københavns Byret"
+  ],
+  "1130": [
+    "Københavns Byret"
+  ],
+  "1131": [
+    "Københavns Byret"
+  ],
+  "1150": [
+    "Københavns Byret"
+  ],
+  "1151": [
+    "Københavns Byret"
+  ],
+  "1152": [
+    "Københavns Byret"
+  ],
+  "1153": [
+    "Københavns Byret"
+  ],
+  "1154": [
+    "Københavns Byret"
+  ],
+  "1155": [
+    "Københavns Byret"
+  ],
+  "1156": [
+    "Københavns Byret"
+  ],
+  "1157": [
+    "Københavns Byret"
+  ],
+  "1158": [
+    "Københavns Byret"
+  ],
+  "1159": [
+    "Københavns Byret"
+  ],
+  "1160": [
+    "Københavns Byret"
+  ],
+  "1161": [
+    "Københavns Byret"
+  ],
+  "1162": [
+    "Københavns Byret"
+  ],
+  "1164": [
+    "Københavns Byret"
+  ],
+  "1165": [
+    "Københavns Byret"
+  ],
+  "1166": [
+    "Københavns Byret"
+  ],
+  "1167": [
+    "Københavns Byret"
+  ],
+  "1168": [
+    "Københavns Byret"
+  ],
+  "1169": [
+    "Københavns Byret"
+  ],
+  "1170": [
+    "Københavns Byret"
+  ],
+  "1171": [
+    "Københavns Byret"
+  ],
+  "1172": [
+    "Københavns Byret"
+  ],
+  "1173": [
+    "Københavns Byret"
+  ],
+  "1174": [
+    "Københavns Byret"
+  ],
+  "1175": [
+    "Københavns Byret"
+  ],
+  "1200": [
+    "Københavns Byret"
+  ],
+  "1201": [
+    "Københavns Byret"
+  ],
+  "1202": [
+    "Københavns Byret"
+  ],
+  "1203": [
+    "Københavns Byret"
+  ],
+  "1204": [
+    "Københavns Byret"
+  ],
+  "1205": [
+    "Københavns Byret"
+  ],
+  "1206": [
+    "Københavns Byret"
+  ],
+  "1207": [
+    "Københavns Byret"
+  ],
+  "1208": [
+    "Københavns Byret"
+  ],
+  "1209": [
+    "Københavns Byret"
+  ],
+  "1210": [
+    "Københavns Byret"
+  ],
+  "1211": [
+    "Københavns Byret"
+  ],
+  "1212": [
+    "Københavns Byret"
+  ],
+  "1213": [
+    "Københavns Byret"
+  ],
+  "1214": [
+    "Københavns Byret"
+  ],
+  "1215": [
+    "Københavns Byret"
+  ],
+  "1216": [
+    "Københavns Byret"
+  ],
+  "1218": [
+    "Københavns Byret"
+  ],
+  "1219": [
+    "Københavns Byret"
+  ],
+  "1220": [
+    "Københavns Byret"
+  ],
+  "1221": [
+    "Københavns Byret"
+  ],
+  "1250": [
+    "Københavns Byret"
+  ],
+  "1251": [
+    "Københavns Byret"
+  ],
+  "1252": [
+    "Københavns Byret"
+  ],
+  "1253": [
+    "Københavns Byret"
+  ],
+  "1254": [
+    "Københavns Byret"
+  ],
+  "1255": [
+    "Københavns Byret"
+  ],
+  "1256": [
+    "Københavns Byret"
+  ],
+  "1257": [
+    "Københavns Byret"
+  ],
+  "1259": [
+    "Københavns Byret"
+  ],
+  "1260": [
+    "Københavns Byret"
+  ],
+  "1261": [
+    "Københavns Byret"
+  ],
+  "1263": [
+    "Københavns Byret"
+  ],
+  "1264": [
+    "Københavns Byret"
+  ],
+  "1265": [
+    "Københavns Byret"
+  ],
+  "1266": [
+    "Københavns Byret"
+  ],
+  "1267": [
+    "Københavns Byret"
+  ],
+  "1268": [
+    "Københavns Byret"
+  ],
+  "1270": [
+    "Københavns Byret"
+  ],
+  "1271": [
+    "Københavns Byret"
+  ],
+  "1300": [
+    "Københavns Byret"
+  ],
+  "1301": [
+    "Københavns Byret"
+  ],
+  "1302": [
+    "Københavns Byret"
+  ],
+  "1303": [
+    "Københavns Byret"
+  ],
+  "1304": [
+    "Københavns Byret"
+  ],
+  "1306": [
+    "Københavns Byret"
+  ],
+  "1307": [
+    "Københavns Byret"
+  ],
+  "1308": [
+    "Københavns Byret"
+  ],
+  "1309": [
+    "Københavns Byret"
+  ],
+  "1310": [
+    "Københavns Byret"
+  ],
+  "1311": [
+    "Københavns Byret"
+  ],
+  "1312": [
+    "Københavns Byret"
+  ],
+  "1313": [
+    "Københavns Byret"
+  ],
+  "1314": [
+    "Københavns Byret"
+  ],
+  "1315": [
+    "Københavns Byret"
+  ],
+  "1316": [
+    "Københavns Byret"
+  ],
+  "1317": [
+    "Københavns Byret"
+  ],
+  "1318": [
+    "Københavns Byret"
+  ],
+  "1319": [
+    "Københavns Byret"
+  ],
+  "1320": [
+    "Københavns Byret"
+  ],
+  "1321": [
+    "Københavns Byret"
+  ],
+  "1322": [
+    "Københavns Byret"
+  ],
+  "1323": [
+    "Københavns Byret"
+  ],
+  "1324": [
+    "Københavns Byret"
+  ],
+  "1325": [
+    "Københavns Byret"
+  ],
+  "1326": [
+    "Københavns Byret"
+  ],
+  "1327": [
+    "Københavns Byret"
+  ],
+  "1328": [
+    "Københavns Byret"
+  ],
+  "1329": [
+    "Københavns Byret"
+  ],
+  "1350": [
+    "Københavns Byret"
+  ],
+  "1352": [
+    "Københavns Byret"
+  ],
+  "1353": [
+    "Københavns Byret"
+  ],
+  "1354": [
+    "Københavns Byret"
+  ],
+  "1355": [
+    "Københavns Byret"
+  ],
+  "1356": [
+    "Københavns Byret"
+  ],
+  "1357": [
+    "Københavns Byret"
+  ],
+  "1358": [
+    "Københavns Byret"
+  ],
+  "1359": [
+    "Københavns Byret"
+  ],
+  "1360": [
+    "Københavns Byret"
+  ],
+  "1361": [
+    "Københavns Byret"
+  ],
+  "1362": [
+    "Københavns Byret"
+  ],
+  "1363": [
+    "Københavns Byret"
+  ],
+  "1364": [
+    "Københavns Byret"
+  ],
+  "1365": [
+    "Københavns Byret"
+  ],
+  "1366": [
+    "Københavns Byret"
+  ],
+  "1367": [
+    "Københavns Byret"
+  ],
+  "1368": [
+    "Københavns Byret"
+  ],
+  "1369": [
+    "Københavns Byret"
+  ],
+  "1370": [
+    "Københavns Byret"
+  ],
+  "1371": [
+    "Københavns Byret"
+  ],
+  "1400": [
+    "Københavns Byret"
+  ],
+  "1401": [
+    "Københavns Byret"
+  ],
+  "1402": [
+    "Københavns Byret"
+  ],
+  "1403": [
+    "Københavns Byret"
+  ],
+  "1406": [
+    "Københavns Byret"
+  ],
+  "1407": [
+    "Københavns Byret"
+  ],
+  "1408": [
+    "Københavns Byret"
+  ],
+  "1409": [
+    "Københavns Byret"
+  ],
+  "1410": [
+    "Københavns Byret"
+  ],
+  "1411": [
+    "Københavns Byret"
+  ],
+  "1412": [
+    "Københavns Byret"
+  ],
+  "1413": [
+    "Københavns Byret"
+  ],
+  "1414": [
+    "Københavns Byret"
+  ],
+  "1415": [
+    "Københavns Byret"
+  ],
+  "1416": [
+    "Københavns Byret"
+  ],
+  "1417": [
+    "Københavns Byret"
+  ],
+  "1418": [
+    "Københavns Byret"
+  ],
+  "1419": [
+    "Københavns Byret"
+  ],
+  "1420": [
+    "Københavns Byret"
+  ],
+  "1421": [
+    "Københavns Byret"
+  ],
+  "1422": [
+    "Københavns Byret"
+  ],
+  "1423": [
+    "Københavns Byret"
+  ],
+  "1424": [
+    "Københavns Byret"
+  ],
+  "1425": [
+    "Københavns Byret"
+  ],
+  "1426": [
+    "Københavns Byret"
+  ],
+  "1427": [
+    "Københavns Byret"
+  ],
+  "1428": [
+    "Københavns Byret"
+  ],
+  "1429": [
+    "Københavns Byret"
+  ],
+  "1430": [
+    "Københavns Byret"
+  ],
+  "1432": [
+    "Københavns Byret"
+  ],
+  "1433": [
+    "Københavns Byret"
+  ],
+  "1434": [
+    "Københavns Byret"
+  ],
+  "1435": [
+    "Københavns Byret"
+  ],
+  "1436": [
+    "Københavns Byret"
+  ],
+  "1437": [
+    "Københavns Byret"
+  ],
+  "1438": [
+    "Københavns Byret"
+  ],
+  "1439": [
+    "Københavns Byret"
+  ],
+  "1440": [
+    "Københavns Byret"
+  ],
+  "1441": [
+    "Københavns Byret"
+  ],
+  "1450": [
+    "Københavns Byret"
+  ],
+  "1451": [
+    "Københavns Byret"
+  ],
+  "1452": [
+    "Københavns Byret"
+  ],
+  "1453": [
+    "Københavns Byret"
+  ],
+  "1454": [
+    "Københavns Byret"
+  ],
+  "1455": [
+    "Københavns Byret"
+  ],
+  "1456": [
+    "Københavns Byret"
+  ],
+  "1457": [
+    "Københavns Byret"
+  ],
+  "1458": [
+    "Københavns Byret"
+  ],
+  "1459": [
+    "Københavns Byret"
+  ],
+  "1460": [
+    "Københavns Byret"
+  ],
+  "1461": [
+    "Københavns Byret"
+  ],
+  "1462": [
+    "Københavns Byret"
+  ],
+  "1463": [
+    "Københavns Byret"
+  ],
+  "1464": [
+    "Københavns Byret"
+  ],
+  "1465": [
+    "Københavns Byret"
+  ],
+  "1466": [
+    "Københavns Byret"
+  ],
+  "1467": [
+    "Københavns Byret"
+  ],
+  "1468": [
+    "Københavns Byret"
+  ],
+  "1470": [
+    "Københavns Byret"
+  ],
+  "1471": [
+    "Københavns Byret"
+  ],
+  "1472": [
+    "Københavns Byret"
+  ],
+  "1473": [
+    "Københavns Byret"
+  ],
+  "1500": [
+    "Københavns Byret"
+  ],
+  "1550": [
+    "Københavns Byret"
+  ],
+  "1551": [
+    "Københavns Byret"
+  ],
+  "1552": [
+    "Københavns Byret"
+  ],
+  "1553": [
+    "Københavns Byret"
+  ],
+  "1554": [
+    "Københavns Byret"
+  ],
+  "1555": [
+    "Københavns Byret"
+  ],
+  "1556": [
+    "Københavns Byret"
+  ],
+  "1557": [
+    "Københavns Byret"
+  ],
+  "1558": [
+    "Københavns Byret"
+  ],
+  "1559": [
+    "Københavns Byret"
+  ],
+  "1560": [
+    "Københavns Byret"
+  ],
+  "1561": [
+    "Københavns Byret"
+  ],
+  "1562": [
+    "Københavns Byret"
+  ],
+  "1563": [
+    "Københavns Byret"
+  ],
+  "1564": [
+    "Københavns Byret"
+  ],
+  "1567": [
+    "Københavns Byret"
+  ],
+  "1568": [
+    "Københavns Byret"
+  ],
+  "1569": [
+    "Københavns Byret"
+  ],
+  "1570": [
+    "Københavns Byret"
+  ],
+  "1571": [
+    "Københavns Byret"
+  ],
+  "1572": [
+    "Københavns Byret"
+  ],
+  "1573": [
+    "Københavns Byret"
+  ],
+  "1574": [
+    "Københavns Byret"
+  ],
+  "1575": [
+    "Københavns Byret"
+  ],
+  "1576": [
+    "Københavns Byret"
+  ],
+  "1577": [
+    "Københavns Byret"
+  ],
+  "1600": [
+    "Københavns Byret"
+  ],
+  "1601": [
+    "Københavns Byret"
+  ],
+  "1602": [
+    "Københavns Byret"
+  ],
+  "1603": [
+    "Københavns Byret"
+  ],
+  "1604": [
+    "Københavns Byret"
+  ],
+  "1605": [
+    "Københavns Byret"
+  ],
+  "1606": [
+    "Københavns Byret"
+  ],
+  "1607": [
+    "Københavns Byret"
+  ],
+  "1608": [
+    "Københavns Byret"
+  ],
+  "1609": [
+    "Københavns Byret"
+  ],
+  "1610": [
+    "Københavns Byret"
+  ],
+  "1611": [
+    "Københavns Byret"
+  ],
+  "1612": [
+    "Københavns Byret"
+  ],
+  "1613": [
+    "Københavns Byret"
+  ],
+  "1614": [
+    "Københavns Byret"
+  ],
+  "1615": [
+    "Københavns Byret"
+  ],
+  "1616": [
+    "Københavns Byret"
+  ],
+  "1617": [
+    "Københavns Byret"
+  ],
+  "1618": [
+    "Københavns Byret"
+  ],
+  "1619": [
+    "Københavns Byret"
+  ],
+  "1620": [
+    "Københavns Byret"
+  ],
+  "1621": [
+    "Københavns Byret"
+  ],
+  "1622": [
+    "Københavns Byret"
+  ],
+  "1623": [
+    "Københavns Byret"
+  ],
+  "1624": [
+    "Københavns Byret"
+  ],
+  "1631": [
+    "Københavns Byret"
+  ],
+  "1632": [
+    "Københavns Byret"
+  ],
+  "1633": [
+    "Københavns Byret"
+  ],
+  "1634": [
+    "Københavns Byret"
+  ],
+  "1635": [
+    "Københavns Byret"
+  ],
+  "1650": [
+    "Københavns Byret"
+  ],
+  "1651": [
+    "Københavns Byret"
+  ],
+  "1652": [
+    "Københavns Byret"
+  ],
+  "1653": [
+    "Københavns Byret"
+  ],
+  "1654": [
+    "Københavns Byret"
+  ],
+  "1655": [
+    "Københavns Byret"
+  ],
+  "1656": [
+    "Københavns Byret"
+  ],
+  "1657": [
+    "Københavns Byret"
+  ],
+  "1658": [
+    "Københavns Byret"
+  ],
+  "1659": [
+    "Københavns Byret"
+  ],
+  "1660": [
+    "Københavns Byret"
+  ],
+  "1661": [
+    "Københavns Byret"
+  ],
+  "1662": [
+    "Københavns Byret"
+  ],
+  "1663": [
+    "Københavns Byret"
+  ],
+  "1664": [
+    "Københavns Byret"
+  ],
+  "1665": [
+    "Københavns Byret"
+  ],
+  "1666": [
+    "Københavns Byret"
+  ],
+  "1667": [
+    "Københavns Byret"
+  ],
+  "1668": [
+    "Københavns Byret"
+  ],
+  "1669": [
+    "Københavns Byret"
+  ],
+  "1670": [
+    "Københavns Byret"
+  ],
+  "1671": [
+    "Københavns Byret"
+  ],
+  "1672": [
+    "Københavns Byret"
+  ],
+  "1673": [
+    "Københavns Byret"
+  ],
+  "1674": [
+    "Københavns Byret"
+  ],
+  "1675": [
+    "Københavns Byret"
+  ],
+  "1676": [
+    "Københavns Byret"
+  ],
+  "1677": [
+    "Københavns Byret"
+  ],
+  "1699": [
+    "Københavns Byret"
+  ],
+  "1700": [
+    "Københavns Byret"
+  ],
+  "1701": [
+    "Københavns Byret"
+  ],
+  "1702": [
+    "Københavns Byret"
+  ],
+  "1703": [
+    "Københavns Byret"
+  ],
+  "1704": [
+    "Københavns Byret"
+  ],
+  "1705": [
+    "Københavns Byret"
+  ],
+  "1706": [
+    "Københavns Byret"
+  ],
+  "1707": [
+    "Københavns Byret"
+  ],
+  "1708": [
+    "Københavns Byret"
+  ],
+  "1709": [
+    "Københavns Byret"
+  ],
+  "1710": [
+    "Københavns Byret"
+  ],
+  "1711": [
+    "Københavns Byret"
+  ],
+  "1712": [
+    "Københavns Byret"
+  ],
+  "1714": [
+    "Københavns Byret"
+  ],
+  "1715": [
+    "Københavns Byret"
+  ],
+  "1716": [
+    "Københavns Byret"
+  ],
+  "1717": [
+    "Københavns Byret"
+  ],
+  "1718": [
+    "Københavns Byret"
+  ],
+  "1719": [
+    "Københavns Byret"
+  ],
+  "1720": [
+    "Københavns Byret"
+  ],
+  "1721": [
+    "Københavns Byret"
+  ],
+  "1722": [
+    "Københavns Byret"
+  ],
+  "1723": [
+    "Københavns Byret"
+  ],
+  "1724": [
+    "Københavns Byret"
+  ],
+  "1725": [
+    "Københavns Byret"
+  ],
+  "1726": [
+    "Københavns Byret"
+  ],
+  "1727": [
+    "Københavns Byret"
+  ],
+  "1728": [
+    "Københavns Byret"
+  ],
+  "1729": [
+    "Københavns Byret"
+  ],
+  "1730": [
+    "Københavns Byret"
+  ],
+  "1731": [
+    "Københavns Byret"
+  ],
+  "1732": [
+    "Københavns Byret"
+  ],
+  "1733": [
+    "Københavns Byret"
+  ],
+  "1734": [
+    "Københavns Byret"
+  ],
+  "1735": [
+    "Københavns Byret"
+  ],
+  "1736": [
+    "Københavns Byret"
+  ],
+  "1737": [
+    "Københavns Byret"
+  ],
+  "1738": [
+    "Københavns Byret"
+  ],
+  "1739": [
+    "Københavns Byret"
+  ],
+  "1749": [
+    "Københavns Byret"
+  ],
+  "1750": [
+    "Københavns Byret"
+  ],
+  "1751": [
+    "Københavns Byret"
+  ],
+  "1752": [
+    "Københavns Byret"
+  ],
+  "1753": [
+    "Københavns Byret"
+  ],
+  "1754": [
+    "Københavns Byret"
+  ],
+  "1755": [
+    "Københavns Byret"
+  ],
+  "1756": [
+    "Københavns Byret"
+  ],
+  "1757": [
+    "Københavns Byret"
+  ],
+  "1758": [
+    "Københavns Byret"
+  ],
+  "1759": [
+    "Københavns Byret"
+  ],
+  "1760": [
+    "Københavns Byret"
+  ],
+  "1761": [
+    "Københavns Byret"
+  ],
+  "1762": [
+    "Københavns Byret"
+  ],
+  "1763": [
+    "Københavns Byret"
+  ],
+  "1764": [
+    "Københavns Byret"
+  ],
+  "1765": [
+    "Københavns Byret"
+  ],
+  "1766": [
+    "Københavns Byret"
+  ],
+  "1770": [
+    "Københavns Byret"
+  ],
+  "1771": [
+    "Københavns Byret"
+  ],
+  "1772": [
+    "Københavns Byret"
+  ],
+  "1773": [
+    "Københavns Byret"
+  ],
+  "1774": [
+    "Københavns Byret"
+  ],
+  "1775": [
+    "Københavns Byret"
+  ],
+  "1777": [
+    "Københavns Byret"
+  ],
+  "1799": [
+    "Københavns Byret"
+  ],
+  "1800": [
+    "Københavns Byret"
+  ],
+  "1801": [
+    "Københavns Byret"
+  ],
+  "1802": [
+    "Københavns Byret"
+  ],
+  "1803": [
+    "Københavns Byret"
+  ],
+  "1804": [
+    "Københavns Byret"
+  ],
+  "1805": [
+    "Københavns Byret"
+  ],
+  "1806": [
+    "Københavns Byret"
+  ],
+  "1807": [
+    "Københavns Byret"
+  ],
+  "1808": [
+    "Københavns Byret"
+  ],
+  "1809": [
+    "Københavns Byret"
+  ],
+  "1810": [
+    "Københavns Byret"
+  ],
+  "1811": [
+    "Københavns Byret"
+  ],
+  "1812": [
+    "Københavns Byret"
+  ],
+  "1813": [
+    "Københavns Byret"
+  ],
+  "1814": [
+    "Københavns Byret"
+  ],
+  "1815": [
+    "Københavns Byret"
+  ],
+  "1816": [
+    "Københavns Byret"
+  ],
+  "1817": [
+    "Københavns Byret"
+  ],
+  "1818": [
+    "Københavns Byret"
+  ],
+  "1819": [
+    "Københavns Byret"
+  ],
+  "1820": [
+    "Københavns Byret"
+  ],
+  "1822": [
+    "Københavns Byret"
+  ],
+  "1823": [
+    "Københavns Byret"
+  ],
+  "1824": [
+    "Københavns Byret"
+  ],
+  "1825": [
+    "Københavns Byret"
+  ],
+  "1826": [
+    "Københavns Byret"
+  ],
+  "1827": [
+    "Københavns Byret"
+  ],
+  "1828": [
+    "Københavns Byret"
+  ],
+  "1829": [
+    "Københavns Byret"
+  ],
+  "1850": [
+    "Københavns Byret"
+  ],
+  "1851": [
+    "Københavns Byret"
+  ],
+  "1852": [
+    "Københavns Byret"
+  ],
+  "1853": [
+    "Københavns Byret"
+  ],
+  "1854": [
+    "Københavns Byret"
+  ],
+  "1855": [
+    "Københavns Byret"
+  ],
+  "1856": [
+    "Københavns Byret"
+  ],
+  "1857": [
+    "Københavns Byret"
+  ],
+  "1860": [
+    "Københavns Byret"
+  ],
+  "1861": [
+    "Københavns Byret"
+  ],
+  "1862": [
+    "Københavns Byret"
+  ],
+  "1863": [
+    "Københavns Byret"
+  ],
+  "1864": [
+    "Københavns Byret"
+  ],
+  "1865": [
+    "Københavns Byret"
+  ],
+  "1866": [
+    "Københavns Byret"
+  ],
+  "1867": [
+    "Københavns Byret"
+  ],
+  "1868": [
+    "Københavns Byret"
+  ],
+  "1870": [
+    "Københavns Byret"
+  ],
+  "1871": [
+    "Københavns Byret"
+  ],
+  "1872": [
+    "Københavns Byret"
+  ],
+  "1873": [
+    "Københavns Byret"
+  ],
+  "1874": [
+    "Københavns Byret"
+  ],
+  "1875": [
+    "Københavns Byret"
+  ],
+  "1876": [
+    "Københavns Byret"
+  ],
+  "1877": [
+    "Københavns Byret"
+  ],
+  "1878": [
+    "Københavns Byret"
+  ],
+  "1879": [
+    "Københavns Byret"
+  ],
+  "1900": [
+    "Københavns Byret"
+  ],
+  "1901": [
+    "Københavns Byret"
+  ],
+  "1902": [
+    "Københavns Byret"
+  ],
+  "1903": [
+    "Københavns Byret"
+  ],
+  "1904": [
+    "Københavns Byret"
+  ],
+  "1905": [
+    "Københavns Byret"
+  ],
+  "1906": [
+    "Københavns Byret"
+  ],
+  "1908": [
+    "Københavns Byret"
+  ],
+  "1909": [
+    "Københavns Byret"
+  ],
+  "1910": [
+    "Københavns Byret"
+  ],
+  "1911": [
+    "Københavns Byret"
+  ],
+  "1912": [
+    "Københavns Byret"
+  ],
+  "1913": [
+    "Københavns Byret"
+  ],
+  "1914": [
+    "Københavns Byret"
+  ],
+  "1915": [
+    "Københavns Byret"
+  ],
+  "1916": [
+    "Københavns Byret"
+  ],
+  "1917": [
+    "Københavns Byret"
+  ],
+  "1920": [
+    "Københavns Byret"
+  ],
+  "1921": [
+    "Københavns Byret"
+  ],
+  "1922": [
+    "Københavns Byret"
+  ],
+  "1923": [
+    "Københavns Byret"
+  ],
+  "1924": [
+    "Københavns Byret"
+  ],
+  "1925": [
+    "Københavns Byret"
+  ],
+  "1926": [
+    "Københavns Byret"
+  ],
+  "1927": [
+    "Københavns Byret"
+  ],
+  "1928": [
+    "Københavns Byret"
+  ],
+  "1950": [
+    "Københavns Byret"
+  ],
+  "1951": [
+    "Københavns Byret"
+  ],
+  "1952": [
+    "Københavns Byret"
+  ],
+  "1953": [
+    "Københavns Byret"
+  ],
+  "1954": [
+    "Københavns Byret"
+  ],
+  "1955": [
+    "Københavns Byret"
+  ],
+  "1956": [
+    "Københavns Byret"
+  ],
+  "1957": [
+    "Københavns Byret"
+  ],
+  "1958": [
+    "Københavns Byret"
+  ],
+  "1959": [
+    "Københavns Byret"
+  ],
+  "1960": [
+    "Københavns Byret"
+  ],
+  "1961": [
+    "Københavns Byret"
+  ],
+  "1962": [
+    "Københavns Byret"
+  ],
+  "1963": [
+    "Københavns Byret"
+  ],
+  "1964": [
+    "Københavns Byret"
+  ],
+  "1965": [
+    "Københavns Byret"
+  ],
+  "1966": [
+    "Københavns Byret"
+  ],
+  "1967": [
+    "Københavns Byret"
+  ],
+  "1970": [
+    "Københavns Byret"
+  ],
+  "1971": [
+    "Københavns Byret"
+  ],
+  "1972": [
+    "Københavns Byret"
+  ],
+  "1973": [
+    "Københavns Byret"
+  ],
+  "1974": [
+    "Københavns Byret"
+  ],
+  "2000": [
+    "Retten på Frederiksberg"
+  ],
+  "2100": [
+    "Københavns Byret"
+  ],
+  "2150": [
+    "Københavns Byret"
+  ],
+  "2200": [
+    "Københavns Byret"
+  ],
+  "2300": [
+    "Københavns Byret"
+  ],
+  "2400": [
+    "Københavns Byret"
+  ],
+  "2450": [
+    "Københavns Byret"
+  ],
+  "2500": [
+    "Retten på Frederiksberg"
+  ],
+  "2600": [
+    "Retten i Glostrup"
+  ],
+  "2605": [
+    "Retten i Glostrup"
+  ],
+  "2610": [
+    "Retten i Glostrup"
+  ],
+  "2620": [
+    "Retten i Glostrup"
+  ],
+  "2625": [
+    "Retten i Glostrup"
+  ],
+  "2630": [
+    "Retten i Glostrup"
+  ],
+  "2635": [
+    "Retten i Glostrup"
+  ],
+  "2640": [
+    "Retten i Glostrup"
+  ],
+  "2650": [
+    "Retten i Glostrup"
+  ],
+  "2660": [
+    "Retten i Glostrup"
+  ],
+  "2665": [
+    "Retten i Glostrup"
+  ],
+  "2670": [
+    "Retten i Glostrup"
+  ],
+  "2680": [
+    "Retten i Køge"
+  ],
+  "2690": [
+    "Retten i Køge"
+  ],
+  "2700": [
+    "Retten i Glostrup"
+  ],
+  "2720": [
+    "Retten i Glostrup"
+  ],
+  "2730": [
+    "Retten i Glostrup"
+  ],
+  "2740": [
+    "Retten i Glostrup"
+  ],
+  "2750": [
+    "Retten i Glostrup"
+  ],
+  "2760": [
+    "Retten i Glostrup"
+  ],
+  "2765": [
+    "Retten i Hillerød"
+  ],
+  "2770": [
+    "Retten i Glostrup"
+  ],
+  "2791": [
+    "Retten i Glostrup"
+  ],
+  "2800": [
+    "Retten i Lyngby"
+  ],
+  "2820": [
+    "Retten i Lyngby"
+  ],
+  "2830": [
+    "Retten i Lyngby"
+  ],
+  "2840": [
+    "Retten i Lyngby"
+  ],
+  "2850": [
+    "Retten i Lyngby"
+  ],
+  "2860": [
+    "Retten i Lyngby"
+  ],
+  "2870": [
+    "Retten i Lyngby"
+  ],
+  "2880": [
+    "Retten i Lyngby"
+  ],
+  "2900": [
+    "Retten i Lyngby"
+  ],
+  "2920": [
+    "Retten i Lyngby"
+  ],
+  "2930": [
+    "Retten i Lyngby"
+  ],
+  "2942": [
+    "Retten i Lyngby"
+  ],
+  "2950": [
+    "Retten i Lyngby"
+  ],
+  "2960": [
+    "Retten i Lyngby"
+  ],
+  "2970": [
+    "Retten i Lyngby"
+  ],
+  "2980": [
+    "Retten i Helsingør"
+  ],
+  "2990": [
+    "Retten i Helsingør"
+  ],
+  "3000": [
+    "Retten i Helsingør"
+  ],
+  "3050": [
+    "Retten i Helsingør"
+  ],
+  "3060": [
+    "Retten i Helsingør"
+  ],
+  "3070": [
+    "Retten i Helsingør"
+  ],
+  "3080": [
+    "Retten i Helsingør"
+  ],
+  "3100": [
+    "Retten i Hillerød"
+  ],
+  "3120": [
+    "Retten i Hillerød"
+  ],
+  "3140": [
+    "Retten i Hillerød"
+  ],
+  "3150": [
+    "Retten i Helsingør"
+  ],
+  "3200": [
+    "Retten i Hillerød"
+  ],
+  "3210": [
+    "Retten i Hillerød"
+  ],
+  "3220": [
+    "Retten i Hillerød"
+  ],
+  "3230": [
+    "Retten i Hillerød"
+  ],
+  "3250": [
+    "Retten i Hillerød"
+  ],
+  "3300": [
+    "Retten i Hillerød"
+  ],
+  "3310": [
+    "Retten i Hillerød"
+  ],
+  "3320": [
+    "Retten i Hillerød"
+  ],
+  "3330": [
+    "Retten i Hillerød"
+  ],
+  "3350": [
+    "Retten i Hillerød"
+  ],
+  "3360": [
+    "Retten i Hillerød"
+  ],
+  "3370": [
+    "Retten i Hillerød"
+  ],
+  "3390": [
+    "Retten i Hillerød"
+  ],
+  "3400": [
+    "Retten i Hillerød"
+  ],
+  "3450": [
+    "Retten i Hillerød"
+  ],
+  "3460": [
+    "Retten i Hillerød"
+  ],
+  "3480": [
+    "Retten i Hillerød"
+  ],
+  "3490": [
+    "Retten i Helsingør"
+  ],
+  "3500": [
+    "Retten i Hillerød"
+  ],
+  "3520": [
+    "Retten i Hillerød"
+  ],
+  "3540": [
+    "Retten i Hillerød"
+  ],
+  "3550": [
+    "Retten i Hillerød"
+  ],
+  "3600": [
+    "Retten i Hillerød"
+  ],
+  "3630": [
+    "Retten i Hillerød"
+  ],
+  "3650": [
+    "Retten i Hillerød"
+  ],
+  "3660": [
+    "Retten i Hillerød"
+  ],
+  "3670": [
+    "Retten i Hillerød"
+  ],
+  "3700": [
+    "Retten på Bornholm"
+  ],
+  "3720": [
+    "Retten på Bornholm"
+  ],
+  "3730": [
+    "Retten på Bornholm"
+  ],
+  "3740": [
+    "Retten på Bornholm"
+  ],
+  "3751": [
+    "Retten på Bornholm"
+  ],
+  "3760": [
+    "Retten på Bornholm"
+  ],
+  "3770": [
+    "Retten på Bornholm"
+  ],
+  "3782": [
+    "Retten på Bornholm"
+  ],
+  "3790": [
+    "Retten på Bornholm"
+  ],
+  "4000": [
+    "Retten i Roskilde"
+  ],
+  "4030": [
+    "Retten i Roskilde"
+  ],
+  "4040": [
+    "Retten i Roskilde"
+  ],
+  "4050": [
+    "Retten i Roskilde"
+  ],
+  "4060": [
+    "Retten i Roskilde"
+  ],
+  "4070": [
+    "Retten i Roskilde"
+  ],
+  "4100": [
+    "Retten i Roskilde"
+  ],
+  "4130": [
+    "Retten i Roskilde"
+  ],
+  "4140": [
+    "Retten i Roskilde"
+  ],
+  "4160": [
+    "Retten i Næstved"
+  ],
+  "4171": [
+    "Retten i Roskilde"
+  ],
+  "4173": [
+    "Retten i Næstved"
+  ],
+  "4174": [
+    "Retten i Roskilde"
+  ],
+  "4180": [
+    "Retten i Roskilde"
+  ],
+  "4190": [
+    "Retten i Næstved"
+  ],
+  "4200": [
+    "Retten i Næstved"
+  ],
+  "4220": [
+    "Retten i Næstved"
+  ],
+  "4230": [
+    "Retten i Næstved"
+  ],
+  "4241": [
+    "Retten i Næstved"
+  ],
+  "4242": [
+    "Retten i Næstved"
+  ],
+  "4243": [
+    "Retten i Næstved"
+  ],
+  "4244": [
+    "Retten i Næstved"
+  ],
+  "4245": [
+    "Retten i Næstved"
+  ],
+  "4250": [
+    "Retten i Næstved"
+  ],
+  "4261": [
+    "Retten i Næstved"
+  ],
+  "4262": [
+    "Retten i Næstved"
+  ],
+  "4270": [
+    "Retten i Næstved"
+  ],
+  "4281": [
+    "Retten i Næstved"
+  ],
+  "4291": [
+    "Retten i Næstved"
+  ],
+  "4293": [
+    "Retten i Næstved"
+  ],
+  "4295": [
+    "Retten i Næstved"
+  ],
+  "4296": [
+    "Retten i Holbæk"
+  ],
+  "4300": [
+    "Retten i Holbæk"
+  ],
+  "4305": [
+    "Retten i Holbæk"
+  ],
+  "4320": [
+    "Retten i Holbæk"
+  ],
+  "4330": [
+    "Retten i Holbæk"
+  ],
+  "4340": [
+    "Retten i Holbæk"
+  ],
+  "4350": [
+    "Retten i Holbæk"
+  ],
+  "4360": [
+    "Retten i Holbæk"
+  ],
+  "4370": [
+    "Retten i Holbæk"
+  ],
+  "4380": [
+    "Retten i Holbæk"
+  ],
+  "4390": [
+    "Retten i Holbæk"
+  ],
+  "4400": [
+    "Retten i Holbæk"
+  ],
+  "4420": [
+    "Retten i Holbæk"
+  ],
+  "4440": [
+    "Retten i Holbæk"
+  ],
+  "4450": [
+    "Retten i Holbæk"
+  ],
+  "4460": [
+    "Retten i Holbæk"
+  ],
+  "4470": [
+    "Retten i Holbæk"
+  ],
+  "4480": [
+    "Retten i Holbæk"
+  ],
+  "4490": [
+    "Retten i Holbæk"
+  ],
+  "4500": [
+    "Retten i Holbæk"
+  ],
+  "4520": [
+    "Retten i Holbæk"
+  ],
+  "4532": [
+    "Retten i Holbæk"
+  ],
+  "4534": [
+    "Retten i Holbæk"
+  ],
+  "4540": [
+    "Retten i Holbæk"
+  ],
+  "4550": [
+    "Retten i Holbæk"
+  ],
+  "4560": [
+    "Retten i Holbæk"
+  ],
+  "4571": [
+    "Retten i Holbæk"
+  ],
+  "4572": [
+    "Retten i Holbæk"
+  ],
+  "4573": [
+    "Retten i Holbæk"
+  ],
+  "4581": [
+    "Retten i Holbæk"
+  ],
+  "4583": [
+    "Retten i Holbæk"
+  ],
+  "4591": [
+    "Retten i Holbæk"
+  ],
+  "4592": [
+    "Retten i Holbæk"
+  ],
+  "4593": [
+    "Retten i Holbæk"
+  ],
+  "4600": [
+    "Retten i Køge"
+  ],
+  "4621": [
+    "Retten i Køge"
+  ],
+  "4622": [
+    "Retten i Køge"
+  ],
+  "4623": [
+    "Retten i Køge"
+  ],
+  "4632": [
+    "Retten i Roskilde"
+  ],
+  "4640": [
+    "Retten i Næstved"
+  ],
+  "4652": [
+    "Retten i Næstved"
+  ],
+  "4653": [
+    "Retten i Næstved"
+  ],
+  "4654": [
+    "Retten i Næstved"
+  ],
+  "4660": [
+    "Retten i Næstved"
+  ],
+  "4671": [
+    "Retten i Næstved"
+  ],
+  "4672": [
+    "Retten i Næstved"
+  ],
+  "4673": [
+    "Retten i Næstved"
+  ],
+  "4681": [
+    "Retten i Næstved"
+  ],
+  "4682": [
+    "Retten i Næstved"
+  ],
+  "4683": [
+    "Retten i Næstved"
+  ],
+  "4684": [
+    "Retten i Næstved"
+  ],
+  "4690": [
+    "Retten i Næstved"
+  ],
+  "4700": [
+    "Retten i Næstved"
+  ],
+  "4720": [
+    "Retten i Næstved"
+  ],
+  "4733": [
+    "Retten i Næstved"
+  ],
+  "4735": [
+    "Retten i Næstved"
+  ],
+  "4736": [
+    "Retten i Næstved"
+  ],
+  "4750": [
+    "Retten i Næstved"
+  ],
+  "4760": [
+    "Retten i Næstved"
+  ],
+  "4771": [
+    "Retten i Næstved"
+  ],
+  "4772": [
+    "Retten i Næstved"
+  ],
+  "4773": [
+    "Retten i Næstved"
+  ],
+  "4780": [
+    "Retten i Næstved"
+  ],
+  "4791": [
+    "Retten i Næstved"
+  ],
+  "4792": [
+    "Retten i Næstved"
+  ],
+  "4793": [
+    "Retten i Næstved"
+  ],
+  "4800": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4840": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4850": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4862": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4863": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4871": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4872": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4873": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4874": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4880": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4891": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4892": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4894": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4895": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4900": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4912": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4913": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4920": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4930": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4941": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4942": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4943": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4944": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4945": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4951": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4952": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4953": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4960": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4970": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4983": [
+    "Retten i Nykøbing Falster"
+  ],
+  "4990": [
+    "Retten i Nykøbing Falster"
+  ],
+  "5000": [
+    "Retten i Odense"
+  ],
+  "5200": [
+    "Retten i Odense"
+  ],
+  "5210": [
+    "Retten i Odense"
+  ],
+  "5220": [
+    "Retten i Odense"
+  ],
+  "5230": [
+    "Retten i Odense"
+  ],
+  "5240": [
+    "Retten i Odense"
+  ],
+  "5250": [
+    "Retten i Odense"
+  ],
+  "5260": [
+    "Retten i Odense"
+  ],
+  "5270": [
+    "Retten i Odense"
+  ],
+  "5290": [
+    "Retten i Odense"
+  ],
+  "5300": [
+    "Retten i Odense"
+  ],
+  "5320": [
+    "Retten i Odense"
+  ],
+  "5330": [
+    "Retten i Odense"
+  ],
+  "5350": [
+    "Retten i Odense"
+  ],
+  "5370": [
+    "Retten i Odense"
+  ],
+  "5380": [
+    "Retten i Odense"
+  ],
+  "5390": [
+    "Retten i Odense"
+  ],
+  "5400": [
+    "Retten i Odense"
+  ],
+  "5450": [
+    "Retten i Odense"
+  ],
+  "5462": [
+    "Retten i Odense"
+  ],
+  "5463": [
+    "Retten i Odense"
+  ],
+  "5464": [
+    "Retten i Odense"
+  ],
+  "5466": [
+    "Retten i Odense"
+  ],
+  "5471": [
+    "Retten i Odense"
+  ],
+  "5474": [
+    "Retten i Odense"
+  ],
+  "5485": [
+    "Retten i Odense"
+  ],
+  "5491": [
+    "Retten i Odense"
+  ],
+  "5492": [
+    "Retten i Odense"
+  ],
+  "5500": [
+    "Retten i Svendborg"
+  ],
+  "5540": [
+    "Retten i Svendborg"
+  ],
+  "5550": [
+    "Retten i Svendborg"
+  ],
+  "5560": [
+    "Retten i Svendborg"
+  ],
+  "5580": [
+    "Retten i Svendborg"
+  ],
+  "5591": [
+    "Retten i Svendborg"
+  ],
+  "5592": [
+    "Retten i Svendborg"
+  ],
+  "5600": [
+    "Retten i Svendborg"
+  ],
+  "5601": [
+    "Retten i Svendborg"
+  ],
+  "5602": [
+    "Retten i Svendborg"
+  ],
+  "5603": [
+    "Retten i Svendborg"
+  ],
+  "5610": [
+    "Retten i Svendborg"
+  ],
+  "5620": [
+    "Retten i Svendborg"
+  ],
+  "5631": [
+    "Retten i Svendborg"
+  ],
+  "5642": [
+    "Retten i Svendborg"
+  ],
+  "5672": [
+    "Retten i Svendborg"
+  ],
+  "5683": [
+    "Retten i Svendborg"
+  ],
+  "5690": [
+    "Retten i Svendborg"
+  ],
+  "5700": [
+    "Retten i Svendborg"
+  ],
+  "5750": [
+    "Retten i Svendborg"
+  ],
+  "5762": [
+    "Retten i Svendborg"
+  ],
+  "5771": [
+    "Retten i Svendborg"
+  ],
+  "5772": [
+    "Retten i Svendborg"
+  ],
+  "5792": [
+    "Retten i Svendborg"
+  ],
+  "5800": [
+    "Retten i Svendborg"
+  ],
+  "5853": [
+    "Retten i Svendborg"
+  ],
+  "5854": [
+    "Retten i Svendborg"
+  ],
+  "5856": [
+    "Retten i Svendborg"
+  ],
+  "5863": [
+    "Retten i Svendborg"
+  ],
+  "5871": [
+    "Retten i Svendborg"
+  ],
+  "5874": [
+    "Retten i Svendborg"
+  ],
+  "5881": [
+    "Retten i Svendborg"
+  ],
+  "5882": [
+    "Retten i Svendborg"
+  ],
+  "5883": [
+    "Retten i Svendborg"
+  ],
+  "5884": [
+    "Retten i Svendborg"
+  ],
+  "5892": [
+    "Retten i Svendborg"
+  ],
+  "5900": [
+    "Retten i Svendborg"
+  ],
+  "5932": [
+    "Retten i Svendborg"
+  ],
+  "5935": [
+    "Retten i Svendborg"
+  ],
+  "5943": [
+    "Retten i Svendborg"
+  ],
+  "5953": [
+    "Retten i Svendborg"
+  ],
+  "5960": [
+    "Retten i Svendborg"
+  ],
+  "5965": [
+    "Retten i Svendborg"
+  ],
+  "5970": [
+    "Retten i Svendborg"
+  ],
+  "5985": [
+    "Retten i Svendborg"
+  ],
+  "6000": [
+    "Retten i Kolding"
+  ],
+  "6040": [
+    "Retten i Kolding"
+  ],
+  "6051": [
+    "Retten i Kolding"
+  ],
+  "6052": [
+    "Retten i Kolding"
+  ],
+  "6064": [
+    "Retten i Kolding"
+  ],
+  "6070": [
+    "Retten i Kolding"
+  ],
+  "6091": [
+    "Retten i Kolding"
+  ],
+  "6092": [
+    "Retten i Kolding"
+  ],
+  "6093": [
+    "Retten i Kolding"
+  ],
+  "6094": [
+    "Retten i Kolding"
+  ],
+  "6100": [
+    "Retten i Sønderborg"
+  ],
+  "6200": [
+    "Retten i Sønderborg"
+  ],
+  "6210": [
+    "Retten i Sønderborg"
+  ],
+  "6230": [
+    "Retten i Sønderborg"
+  ],
+  "6240": [
+    "Retten i Sønderborg"
+  ],
+  "6250": [
+    "Retten i Sønderborg"
+  ],
+  "6261": [
+    "Retten i Sønderborg"
+  ],
+  "6270": [
+    "Retten i Sønderborg"
+  ],
+  "6280": [
+    "Retten i Esbjerg"
+  ],
+  "6300": [
+    "Retten i Sønderborg"
+  ],
+  "6310": [
+    "Retten i Sønderborg"
+  ],
+  "6320": [
+    "Retten i Sønderborg"
+  ],
+  "6330": [
+    "Retten i Sønderborg"
+  ],
+  "6340": [
+    "Retten i Sønderborg"
+  ],
+  "6360": [
+    "Retten i Sønderborg"
+  ],
+  "6372": [
+    "Retten i Sønderborg"
+  ],
+  "6392": [
+    "Retten i Sønderborg"
+  ],
+  "6400": [
+    "Retten i Sønderborg"
+  ],
+  "6430": [
+    "Retten i Sønderborg"
+  ],
+  "6440": [
+    "Retten i Sønderborg"
+  ],
+  "6470": [
+    "Retten i Sønderborg"
+  ],
+  "6500": [
+    "Retten i Esbjerg"
+  ],
+  "6510": [
+    "Retten i Esbjerg"
+  ],
+  "6520": [
+    "Retten i Esbjerg"
+  ],
+  "6534": [
+    "Retten i Esbjerg"
+  ],
+  "6535": [
+    "Retten i Esbjerg"
+  ],
+  "6541": [
+    "Retten i Esbjerg"
+  ],
+  "6560": [
+    "Retten i Esbjerg"
+  ],
+  "6580": [
+    "Retten i Esbjerg"
+  ],
+  "6600": [
+    "Retten i Kolding"
+  ],
+  "6621": [
+    "Retten i Kolding"
+  ],
+  "6622": [
+    "Retten i Kolding"
+  ],
+  "6623": [
+    "Retten i Kolding"
+  ],
+  "6630": [
+    "Retten i Kolding"
+  ],
+  "6640": [
+    "Retten i Kolding"
+  ],
+  "6650": [
+    "Retten i Kolding"
+  ],
+  "6660": [
+    "Retten i Kolding"
+  ],
+  "6670": [
+    "Retten i Kolding"
+  ],
+  "6682": [
+    "Retten i Kolding"
+  ],
+  "6683": [
+    "Retten i Kolding"
+  ],
+  "6690": [
+    "Retten i Esbjerg"
+  ],
+  "6700": [
+    "Retten i Esbjerg"
+  ],
+  "6705": [
+    "Retten i Esbjerg"
+  ],
+  "6710": [
+    "Retten i Esbjerg"
+  ],
+  "6715": [
+    "Retten i Esbjerg"
+  ],
+  "6720": [
+    "Retten i Esbjerg"
+  ],
+  "6731": [
+    "Retten i Esbjerg"
+  ],
+  "6740": [
+    "Retten i Esbjerg"
+  ],
+  "6752": [
+    "Retten i Esbjerg"
+  ],
+  "6753": [
+    "Retten i Esbjerg"
+  ],
+  "6760": [
+    "Retten i Esbjerg"
+  ],
+  "6771": [
+    "Retten i Esbjerg"
+  ],
+  "6780": [
+    "Retten i Esbjerg"
+  ],
+  "6792": [
+    "Retten i Esbjerg"
+  ],
+  "6800": [
+    "Retten i Esbjerg"
+  ],
+  "6818": [
+    "Retten i Esbjerg"
+  ],
+  "6823": [
+    "Retten i Esbjerg"
+  ],
+  "6830": [
+    "Retten i Esbjerg"
+  ],
+  "6840": [
+    "Retten i Esbjerg"
+  ],
+  "6851": [
+    "Retten i Esbjerg"
+  ],
+  "6852": [
+    "Retten i Esbjerg"
+  ],
+  "6853": [
+    "Retten i Esbjerg"
+  ],
+  "6854": [
+    "Retten i Esbjerg"
+  ],
+  "6855": [
+    "Retten i Esbjerg"
+  ],
+  "6857": [
+    "Retten i Esbjerg"
+  ],
+  "6862": [
+    "Retten i Esbjerg"
+  ],
+  "6870": [
+    "Retten i Esbjerg"
+  ],
+  "6880": [
+    "Retten i Esbjerg"
+  ],
+  "6893": [
+    "Retten i Esbjerg"
+  ],
+  "6900": [
+    "Retten i Holstebro"
+  ],
+  "6920": [
+    "Retten i Holstebro"
+  ],
+  "6933": [
+    "Retten i Holstebro"
+  ],
+  "6940": [
+    "Retten i Holstebro"
+  ],
+  "6950": [
+    "Retten i Holstebro"
+  ],
+  "6960": [
+    "Retten i Holstebro"
+  ],
+  "6971": [
+    "Retten i Holstebro"
+  ],
+  "6973": [
+    "Retten i Holstebro"
+  ],
+  "6980": [
+    "Retten i Holstebro"
+  ],
+  "6990": [
+    "Retten i Holstebro"
+  ],
+  "7000": [
+    "Retten i Kolding"
+  ],
+  "7080": [
+    "Retten i Kolding"
+  ],
+  "7100": [
+    "Retten i Kolding"
+  ],
+  "7120": [
+    "Retten i Kolding"
+  ],
+  "7130": [
+    "Retten i Kolding"
+  ],
+  "7140": [
+    "Retten i Kolding"
+  ],
+  "7150": [
+    "Retten i Kolding"
+  ],
+  "7160": [
+    "Retten i Kolding"
+  ],
+  "7171": [
+    "Retten i Kolding"
+  ],
+  "7173": [
+    "Retten i Kolding"
+  ],
+  "7182": [
+    "Retten i Kolding"
+  ],
+  "7183": [
+    "Retten i Kolding"
+  ],
+  "7184": [
+    "Retten i Kolding"
+  ],
+  "7190": [
+    "Retten i Kolding"
+  ],
+  "7200": [
+    "Retten i Kolding"
+  ],
+  "7250": [
+    "Retten i Kolding"
+  ],
+  "7260": [
+    "Retten i Kolding"
+  ],
+  "7270": [
+    "Retten i Kolding"
+  ],
+  "7280": [
+    "Retten i Kolding"
+  ],
+  "7300": [
+    "Retten i Horsens"
+  ],
+  "7321": [
+    "Retten i Horsens"
+  ],
+  "7323": [
+    "Retten i Horsens"
+  ],
+  "7330": [
+    "Retten i Horsens"
+  ],
+  "7361": [
+    "Retten i Horsens"
+  ],
+  "7362": [
+    "Retten i Horsens"
+  ],
+  "7400": [
+    "Retten i Herning"
+  ],
+  "7430": [
+    "Retten i Herning"
+  ],
+  "7441": [
+    "Retten i Herning"
+  ],
+  "7442": [
+    "Retten i Horsens"
+  ],
+  "7451": [
+    "Retten i Herning"
+  ],
+  "7470": [
+    "Retten i Herning"
+  ],
+  "7480": [
+    "Retten i Herning"
+  ],
+  "7490": [
+    "Retten i Herning"
+  ],
+  "7500": [
+    "Retten i Holstebro"
+  ],
+  "7540": [
+    "Retten i Holstebro"
+  ],
+  "7550": [
+    "Retten i Holstebro"
+  ],
+  "7560": [
+    "Retten i Holstebro"
+  ],
+  "7570": [
+    "Retten i Holstebro"
+  ],
+  "7600": [
+    "Retten i Holstebro"
+  ],
+  "7620": [
+    "Retten i Holstebro"
+  ],
+  "7650": [
+    "Retten i Holstebro"
+  ],
+  "7660": [
+    "Retten i Holstebro"
+  ],
+  "7673": [
+    "Retten i Holstebro"
+  ],
+  "7680": [
+    "Retten i Horsens"
+  ],
+  "7700": [
+    "Retten i Holstebro"
+  ],
+  "7730": [
+    "Retten i Holstebro"
+  ],
+  "7741": [
+    "Retten i Holstebro"
+  ],
+  "7742": [
+    "Retten i Holstebro"
+  ],
+  "7752": [
+    "Retten i Holstebro"
+  ],
+  "7755": [
+    "Retten i Holstebro"
+  ],
+  "7760": [
+    "Retten i Holstebro"
+  ],
+  "7770": [
+    "Retten i Holstebro"
+  ],
+  "7790": [
+    "Retten i Holstebro"
+  ],
+  "7800": [
+    "Retten i Holstebro"
+  ],
+  "7830": [
+    "Retten i Holstebro"
+  ],
+  "7840": [
+    "Retten i Holstebro"
+  ],
+  "7850": [
+    "Retten i Holstebro"
+  ],
+  "7860": [
+    "Retten i Holstebro"
+  ],
+  "7870": [
+    "Retten i Holstebro"
+  ],
+  "7884": [
+    "Retten i Holstebro"
+  ],
+  "7900": [
+    "Retten i Holstebro"
+  ],
+  "7950": [
+    "Retten i Holstebro"
+  ],
+  "7960": [
+    "Retten i Holstebro"
+  ],
+  "7970": [
+    "Retten i Holstebro"
+  ],
+  "7980": [
+    "Retten i Holstebro"
+  ],
+  "7990": [
+    "Retten i Holstebro"
+  ],
+  "8000": [
+    "Retten i Aarhus"
+  ],
+  "8200": [
+    "Retten i Aarhus"
+  ],
+  "8210": [
+    "Retten i Aarhus"
+  ],
+  "8220": [
+    "Retten i Aarhus"
+  ],
+  "8230": [
+    "Retten i Aarhus"
+  ],
+  "8240": [
+    "Retten i Aarhus"
+  ],
+  "8250": [
+    "Retten i Aarhus"
+  ],
+  "8260": [
+    "Retten i Aarhus"
+  ],
+  "8270": [
+    "Retten i Aarhus"
+  ],
+  "8300": [
+    "Retten i Randers"
+  ],
+  "8305": [
+    "Retten i Randers"
+  ],
+  "8310": [
+    "Retten i Aarhus"
+  ],
+  "8320": [
+    "Retten i Aarhus"
+  ],
+  "8330": [
+    "Retten i Randers"
+  ],
+  "8340": [
+    "Retten i Aarhus"
+  ],
+  "8350": [
+    "Retten i Aarhus"
+  ],
+  "8355": [
+    "Retten i Aarhus"
+  ],
+  "8361": [
+    "Retten i Aarhus"
+  ],
+  "8362": [
+    "Retten i Aarhus"
+  ],
+  "8370": [
+    "Retten i Aarhus"
+  ],
+  "8380": [
+    "Retten i Aarhus"
+  ],
+  "8381": [
+    "Retten i Aarhus"
+  ],
+  "8382": [
+    "Retten i Aarhus"
+  ],
+  "8400": [
+    "Retten i Randers"
+  ],
+  "8410": [
+    "Retten i Randers"
+  ],
+  "8420": [
+    "Retten i Randers"
+  ],
+  "8444": [
+    "Retten i Randers"
+  ],
+  "8450": [
+    "Retten i Randers"
+  ],
+  "8462": [
+    "Retten i Randers"
+  ],
+  "8464": [
+    "Retten i Randers"
+  ],
+  "8471": [
+    "Retten i Randers"
+  ],
+  "8472": [
+    "Retten i Randers"
+  ],
+  "8500": [
+    "Retten i Randers"
+  ],
+  "8520": [
+    "Retten i Randers"
+  ],
+  "8530": [
+    "Retten i Randers"
+  ],
+  "8541": [
+    "Retten i Randers"
+  ],
+  "8543": [
+    "Retten i Randers"
+  ],
+  "8544": [
+    "Retten i Randers"
+  ],
+  "8550": [
+    "Retten i Randers"
+  ],
+  "8560": [
+    "Retten i Randers"
+  ],
+  "8570": [
+    "Retten i Randers"
+  ],
+  "8581": [
+    "Retten i Randers"
+  ],
+  "8585": [
+    "Retten i Randers"
+  ],
+  "8586": [
+    "Retten i Randers"
+  ],
+  "8592": [
+    "Retten i Randers"
+  ],
+  "8600": [
+    "Retten i Viborg"
+  ],
+  "8620": [
+    "Retten i Horsens"
+  ],
+  "8632": [
+    "Retten i Horsens"
+  ],
+  "8641": [
+    "Retten i Horsens"
+  ],
+  "8643": [
+    "Retten i Horsens"
+  ],
+  "8653": [
+    "Retten i Horsens"
+  ],
+  "8654": [
+    "Retten i Horsens"
+  ],
+  "8660": [
+    "Retten i Horsens"
+  ],
+  "8670": [
+    "Retten i Horsens"
+  ],
+  "8680": [
+    "Retten i Horsens"
+  ],
+  "8700": [
+    "Retten i Horsens"
+  ],
+  "8721": [
+    "Retten i Horsens"
+  ],
+  "8722": [
+    "Retten i Horsens"
+  ],
+  "8723": [
+    "Retten i Horsens"
+  ],
+  "8732": [
+    "Retten i Horsens"
+  ],
+  "8740": [
+    "Retten i Horsens"
+  ],
+  "8751": [
+    "Retten i Horsens"
+  ],
+  "8752": [
+    "Retten i Horsens"
+  ],
+  "8762": [
+    "Retten i Horsens"
+  ],
+  "8763": [
+    "Retten i Horsens"
+  ],
+  "8765": [
+    "Retten i Horsens"
+  ],
+  "8766": [
+    "Retten i Horsens"
+  ],
+  "8771": [
+    "Retten i Horsens"
+  ],
+  "8781": [
+    "Retten i Horsens"
+  ],
+  "8783": [
+    "Retten i Horsens"
+  ],
+  "8789": [
+    "Retten i Horsens"
+  ],
+  "8799": [
+    "Retten i Aarhus"
+  ],
+  "8800": [
+    "Retten i Viborg"
+  ],
+  "8830": [
+    "Retten i Viborg"
+  ],
+  "8831": [
+    "Retten i Viborg"
+  ],
+  "8832": [
+    "Retten i Viborg"
+  ],
+  "8840": [
+    "Retten i Viborg"
+  ],
+  "8850": [
+    "Retten i Viborg"
+  ],
+  "8860": [
+    "Retten i Viborg"
+  ],
+  "8870": [
+    "Retten i Viborg"
+  ],
+  "8881": [
+    "Retten i Viborg"
+  ],
+  "8882": [
+    "Retten i Viborg"
+  ],
+  "8883": [
+    "Retten i Viborg"
+  ],
+  "8900": [
+    "Retten i Randers"
+  ],
+  "8920": [
+    "Retten i Randers"
+  ],
+  "8930": [
+    "Retten i Randers"
+  ],
+  "8940": [
+    "Retten i Randers"
+  ],
+  "8950": [
+    "Retten i Randers"
+  ],
+  "8960": [
+    "Retten i Randers"
+  ],
+  "8961": [
+    "Retten i Randers"
+  ],
+  "8963": [
+    "Retten i Randers"
+  ],
+  "8970": [
+    "Retten i Randers"
+  ],
+  "8981": [
+    "Retten i Randers"
+  ],
+  "8983": [
+    "Retten i Randers"
+  ],
+  "8990": [
+    "Retten i Randers"
+  ],
+  "9000": [
+    "Retten i Aalborg"
+  ],
+  "9200": [
+    "Retten i Aalborg"
+  ],
+  "9210": [
+    "Retten i Aalborg"
+  ],
+  "9220": [
+    "Retten i Aalborg"
+  ],
+  "9230": [
+    "Retten i Aalborg"
+  ],
+  "9240": [
+    "Retten i Aalborg"
+  ],
+  "9260": [
+    "Retten i Aalborg"
+  ],
+  "9270": [
+    "Retten i Aalborg"
+  ],
+  "9280": [
+    "Retten i Aalborg"
+  ],
+  "9293": [
+    "Retten i Aalborg"
+  ],
+  "9300": [
+    "Retten i Hjørring"
+  ],
+  "9310": [
+    "Retten i Hjørring"
+  ],
+  "9320": [
+    "Retten i Hjørring"
+  ],
+  "9330": [
+    "Retten i Hjørring"
+  ],
+  "9340": [
+    "Retten i Hjørring"
+  ],
+  "9352": [
+    "Retten i Hjørring"
+  ],
+  "9362": [
+    "Retten i Hjørring"
+  ],
+  "9370": [
+    "Retten i Hjørring"
+  ],
+  "9380": [
+    "Retten i Hjørring"
+  ],
+  "9381": [
+    "Retten i Hjørring"
+  ],
+  "9382": [
+    "Retten i Hjørring"
+  ],
+  "9400": [
+    "Retten i Hjørring"
+  ],
+  "9430": [
+    "Retten i Hjørring"
+  ],
+  "9440": [
+    "Retten i Hjørring"
+  ],
+  "9460": [
+    "Retten i Hjørring"
+  ],
+  "9480": [
+    "Retten i Hjørring"
+  ],
+  "9490": [
+    "Retten i Hjørring"
+  ],
+  "9492": [
+    "Retten i Hjørring"
+  ],
+  "9493": [
+    "Retten i Hjørring"
+  ],
+  "9500": [
+    "Retten i Aalborg"
+  ],
+  "9510": [
+    "Retten i Aalborg"
+  ],
+  "9520": [
+    "Retten i Aalborg"
+  ],
+  "9530": [
+    "Retten i Aalborg"
+  ],
+  "9541": [
+    "Retten i Aalborg"
+  ],
+  "9550": [
+    "Retten i Randers"
+  ],
+  "9560": [
+    "Retten i Aalborg"
+  ],
+  "9574": [
+    "Retten i Aalborg"
+  ],
+  "9575": [
+    "Retten i Aalborg"
+  ],
+  "9600": [
+    "Retten i Viborg"
+  ],
+  "9610": [
+    "Retten i Aalborg"
+  ],
+  "9620": [
+    "Retten i Viborg"
+  ],
+  "9631": [
+    "Retten i Viborg"
+  ],
+  "9632": [
+    "Retten i Viborg"
+  ],
+  "9640": [
+    "Retten i Viborg"
+  ],
+  "9670": [
+    "Retten i Viborg"
+  ],
+  "9681": [
+    "Retten i Viborg"
+  ],
+  "9690": [
+    "Retten i Viborg"
+  ],
+  "9700": [
+    "Retten i Hjørring"
+  ],
+  "9740": [
+    "Retten i Hjørring"
+  ],
+  "9750": [
+    "Retten i Hjørring"
+  ],
+  "9760": [
+    "Retten i Hjørring"
+  ],
+  "9800": [
+    "Retten i Hjørring"
+  ],
+  "9830": [
+    "Retten i Hjørring"
+  ],
+  "9850": [
+    "Retten i Hjørring"
+  ],
+  "9870": [
+    "Retten i Hjørring"
+  ],
+  "9881": [
+    "Retten i Hjørring"
+  ],
+  "9900": [
+    "Retten i Hjørring"
+  ],
+  "9940": [
+    "Retten i Hjørring"
+  ],
+  "9970": [
+    "Retten i Hjørring"
+  ],
+  "9981": [
+    "Retten i Hjørring"
+  ],
+  "9982": [
+    "Retten i Hjørring"
+  ],
+  "9983": [
+    "Retten i Hjørring"
+  ],
+  "9990": [
+    "Retten i Hjørring"
+  ]
 }
